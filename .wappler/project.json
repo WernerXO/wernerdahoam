@@ -1,4 +1,13 @@
 {
   "projectServerModel": "PHP",
-  "projectName": "WernerDahoam"
+  "projectName": "WernerDahoam",
+  "targets": [
+    {
+      "access": "local",
+      "name": "GIT",
+      "remoteURL": "https://wernerxo.github.io/wernerdahoam/",
+      "localFolder": "file:///C:/Users/werne/OneDrive/FTP/wernerdahoam"
+    }
+  ],
+  "activeTarget": "GIT"
 }
